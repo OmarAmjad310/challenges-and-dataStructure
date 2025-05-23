@@ -4,7 +4,7 @@
   [Whiteboard Challenge](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Whiteboard%20challenge).
 
 # challenge-2(Minimum-Value):
- [link](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Minimum-Value).
+ [Minimum-Value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Minimum-Value).
 
  # challenge-3(ReverseCharacters):
  [link](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Reverse-Characters)
