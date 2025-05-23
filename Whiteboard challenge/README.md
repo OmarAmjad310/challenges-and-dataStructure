@@ -9,4 +9,4 @@
 # challenge 1-b:
 - The scope for **challenge1- b** is to return the most frequent number in the array if there is duplicate and return the first element if there is no duplicate.
 
-![challenge1-b](cha-2-b.png)
+![challenge1-b](cha-1-b.png)
