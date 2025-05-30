@@ -9,3 +9,6 @@
  # challenge-3(ReverseCharacters):
  [ReverseCharacters](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Reverse-Characters)
 
+ # challenge-4(Remove-Middle-Value-in-array)
+ [RemovemiddleValue]()
+
