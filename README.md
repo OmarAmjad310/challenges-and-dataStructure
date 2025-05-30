@@ -10,5 +10,5 @@
  [ReverseCharacters](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Reverse-Characters)
 
  # challenge-4(Remove-Middle-Value-in-array)
- [RemovemiddleValue]()
+ [Remove-Middle-Value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Remove-Middle-Value)
 
