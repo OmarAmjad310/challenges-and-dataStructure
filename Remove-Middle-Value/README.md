@@ -1,7 +1,12 @@
 # challenges-and-dataStructure
-# challenge Name: Remove middle value in the array.
-The requirments in this challenge is to remove the middle item in the array without using built in function.
 
-![Remove]{challenge-4.png}
 
-And Here we can see the picture for the code used 
+# Challenge Name: Remove the middile item in the array
+* the scope for this is to remove the middle item with random array
+
+![Remove](challenge-4.png)
+
+* And here we can find the code used to solve the issue:
+
+![output](Remove-middle-item.png)
+
