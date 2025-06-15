@@ -3,4 +3,4 @@ In this challage we tried to do some functions with linedlist Data-sturcture and
 
 # Add and Print Function:
 In this function we built a function to add and print the data.
-![Add And print functions](./Images/Add-And-PrintFunctions.png)
+![Add And print functions](.\Images\Add-And-PrintFunctions.png)
