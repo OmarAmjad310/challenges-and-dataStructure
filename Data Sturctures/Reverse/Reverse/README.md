@@ -12,5 +12,8 @@ In this challange we tried to build a function to reverse the nodes through link
    [Emptylist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/main/Data%20Sturctures/Reverse/doc/reverseEmpty.png)
 
 3. The outputs for reverse single node 
-[single node]()
+[single node](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/main/Data%20Sturctures/Reverse/doc/Reverse-Single-Item.png)
+
+4. The outputs for duplicate and Empty reverse:
+   [DuplicateAndEmptyReverse]()
 
