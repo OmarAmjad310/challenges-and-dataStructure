@@ -17,3 +17,6 @@
  # Linked-List implementation
  [Linkedlist](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Linked-List-Implementation/Data%20Sturctures/LinkedList)
 
+ # Reverse Linked-list
+ [Reverse Linked-list](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Data%20Sturctures/Reverse/Reverse)
+
