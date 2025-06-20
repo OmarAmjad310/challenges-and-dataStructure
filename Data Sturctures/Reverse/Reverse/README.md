@@ -6,5 +6,8 @@ In this challange we tried to build a function to reverse the nodes through link
 
 # The outputs for the function and edge cases
 1. outpus for reverse function:
-   [reverse function]()
+   [Reverse function](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/main/Data%20Sturctures/Reverse/doc/ReverseFunction.png)
+
+2. The outputs for empty list:
+   [emptylist]()
 
