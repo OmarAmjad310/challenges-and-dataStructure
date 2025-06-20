@@ -9,5 +9,8 @@ In this challange we tried to build a function to reverse the nodes through link
    [Reverse function](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/main/Data%20Sturctures/Reverse/doc/ReverseFunction.png)
 
 2. The outputs for empty list:
-   [emptylist]()
+   [Emptylist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/main/Data%20Sturctures/Reverse/doc/reverseEmpty.png)
+
+3. The outputs for reverse single node 
+[single node]()
 
