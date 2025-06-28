@@ -3,4 +3,4 @@
 The iead from doing this challenge is to under stand the merged sorted linkedlist and how it works also how we can handle the edge cases
 related to it.
 
-[Mergesorted]{https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/linkedlist-Merge-Sorted/Data%20Sturctures/Merged%20sort%20linkedlist/doc/megreSorted%20.png}
+[Mergesorted](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/linkedlist-Merge-Sorted/Data%20Sturctures/Merged%20sort%20linkedlist/doc/megreSorted%20.png)
