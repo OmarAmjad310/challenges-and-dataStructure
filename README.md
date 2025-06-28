@@ -20,3 +20,6 @@
  # Reverse Linked-list
  [Reverse Linked-list](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Data%20Sturctures/Reverse/Reverse)
 
+ # Merge Sorted linkedlist
+ [Merge Sorted Linkedlist](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/linkedlist-Merge-Sorted/Data%20Sturctures/Merged%20sort%20linkedlist/Mergsorted)
+
