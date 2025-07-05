@@ -23,3 +23,5 @@
  # Merge Sorted linkedlist
  [Merge Sorted Linkedlist](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/linkedlist-Merge-Sorted/Data%20Sturctures/Merged%20sort%20linkedlist/Mergsorted)
 
+ # Rotate Linkedlist
+ [RotateLinkedlist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/Rotate-Linkedlist-k/Data%20Sturctures/RotateLinkedlist/RotateLinkedlist)
