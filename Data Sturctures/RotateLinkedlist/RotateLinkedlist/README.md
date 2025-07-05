@@ -5,4 +5,4 @@ related to it.
 
 - Understand the concpet of doing this challenge.
   
-[RotateLinkelist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/linkedlist-Merge-Sorted/Data%20Sturctures/Merged%20sort%20linkedlist/doc/megreSorted%20.png)
+[RotateLinkelist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/Rotate-Linkedlist-k/Data%20Sturctures/RotateLinkedlist/doc/RotateLinkedlist.png)
