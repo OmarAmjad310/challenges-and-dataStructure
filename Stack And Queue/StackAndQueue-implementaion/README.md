@@ -1,4 +1,4 @@
-# challenges-and-dataStructure
+# challenges-and-datastructure
 - Stack And Queue DataStructure:
 In this challeage I applied the basic function for stack and Queue to understand how it works.
 
