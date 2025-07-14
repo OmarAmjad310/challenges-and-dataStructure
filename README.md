@@ -25,3 +25,7 @@
 
  # Rotate Linkedlist
  [RotateLinkedlist](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/Rotate-Linkedlist-k/Data%20Sturctures/RotateLinkedlist/RotateLinkedlist)
+
+  # Stack And Queue Linkedlist
+ [Stack And Queue DataStucture]()
+
