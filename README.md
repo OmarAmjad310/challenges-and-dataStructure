@@ -30,7 +30,7 @@
  [Stack And Queue DataStucture](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/stack-and-queue-implementation/Stack%20And%20Queue/StackAndQueue-implementaion)
 
   # Delete Middle Eelment From stack
-  [Delete-the-middle-value-from-stack]()
+  [Delete-the-middle-value-from-stack](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Delete-Middle-Element-Stack/Stack%20And%20Queue/Delete-Middle-value-in-the-stack)
    
 
 
