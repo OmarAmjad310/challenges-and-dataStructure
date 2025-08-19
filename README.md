@@ -39,5 +39,5 @@
  [BainaryTree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinaryTree)
 
 # Bainary-Search-Tree:
-[Bainary Search Tree]()
+[Bainary Search Tree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinarySearchTree)
 
