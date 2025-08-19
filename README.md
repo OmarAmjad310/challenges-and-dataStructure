@@ -35,4 +35,9 @@
  # MinStack-Value:
  [MinStack-Value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Stack%20And%20Queue/Mini-Stack-Value)  
 
+ # Bainary-Tree:
+ [BainaryTree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinaryTree)
+
+# Bainary-Search-Tree:
+[Bainary Search Tree]()
 
