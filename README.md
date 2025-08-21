@@ -42,5 +42,5 @@
 [Bainary Search Tree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinarySearchTree)
 
 # Bainary-Tree Find The Second Max Value:
- [BainaryTree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Second-Max-Value-BT/Tree/BinaryTree%20-%20FindSecondMax)
+ [BainaryTree-Find The second max value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Second-Max-Value-BT/Tree/BinaryTree%20-%20FindSecondMax)
 
