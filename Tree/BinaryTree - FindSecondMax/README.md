@@ -5,4 +5,5 @@ In this Challenge I built a Binary tree to find the second Maximum value inside 
 - The tree has duplicate values 
 
 Also we can find more information in the link below:
+
 [bT-SecondMaxValue](https://github.com/OmarAmjad310/challenges-and-dataStructure/blob/Second-Max-Value-BT/Tree/BinaryTree%20-%20FindSecondMax/Images/Find-Second-Maximum-Value-in-BT.png)
