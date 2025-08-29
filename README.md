@@ -35,16 +35,16 @@
  # MinStack-Value:
  [MinStack-Value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Stack%20And%20Queue/Mini-Stack-Value)  
 
- # Bainary-Tree:
+ # Binary-Tree:
  [BainaryTree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinaryTree)
 
-# Bainary-Search-Tree:
-[Bainary Search Tree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinarySearchTree)
+ # Binary-Search-Tree:
+ [Bainary Search Tree](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/main/Tree/BinarySearchTree)
 
-# Bainary-Tree Find The Second Max Value:
+ # Binary-Tree Find The Second Max Value:
  [BainaryTree-Find The second max value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Second-Max-Value-BT/Tree/BinaryTree%20-%20FindSecondMax)
 
-# Bainary-Tree Find The :
+ # Binary-Tree Sum Of Leaf Nodes:
  [BainaryTree-Find Sum of Leaf nodes](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Leaf-Sum/Tree/BinaryTree%20-%20Sum%20of%20leaf%20nodes)
 
 
