@@ -44,3 +44,9 @@
 # Bainary-Tree Find The Second Max Value:
  [BainaryTree-Find The second max value](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Second-Max-Value-BT/Tree/BinaryTree%20-%20FindSecondMax)
 
+# Bainary-Tree Find The :
+ [BainaryTree-Find Sum of Leaf nodes](https://github.com/OmarAmjad310/challenges-and-dataStructure/tree/Leaf-Sum/Tree/BinaryTree%20-%20Sum%20of%20leaf%20nodes)
+
+
+
+
